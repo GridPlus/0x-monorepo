@@ -109,6 +109,9 @@
             {
                 "note": "Added `SushiSwap`",
                 "pr": 2698
+            },
+            {
+                "note": "Added `Curve` Tripool"
             }
         ]
     },
